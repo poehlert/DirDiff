@@ -1,0 +1,2 @@
+# DirDiff
+Diff huge folders.
