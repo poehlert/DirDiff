@@ -53,4 +53,4 @@ cp -f $fn_b $b;
 
 printf "\n\n
 diff $a $b
-kdiff3 $a $b\n\n"
+kdiff3 $a $b &\n"
